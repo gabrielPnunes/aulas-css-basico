@@ -1,0 +1,17 @@
+p {
+    background-color: aquamarine;
+    color: blue;
+}
+
+#paragrafo1 {
+    background-color: black;
+    color: white;
+}
+
+.fundo-roxo {
+    background-color: blueviolet;
+}
+
+.texto-preto {
+    color: black;
+}
