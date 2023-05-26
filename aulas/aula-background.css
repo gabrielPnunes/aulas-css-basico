@@ -1,0 +1,12 @@
+div{
+    width: 500px;
+    height: 500px;
+    background-color: aquamarine;
+    background-image: url('../imagens/BackgroundImage.png');
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+P{
+    background-color: aquamarine; 
+}
