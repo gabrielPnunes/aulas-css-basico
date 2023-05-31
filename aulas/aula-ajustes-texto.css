@@ -1,0 +1,46 @@
+.cor{
+    color:purple;
+}
+
+.transformacao{
+    text-transform: uppercase;
+}
+
+.decoracao{
+    text-decoration: line-through;
+}
+
+.link{
+    text-decoration: none; color: chartreuse;
+}
+
+.alinhamento{
+    text-align: center;
+}
+
+.justificado{
+    text-align: justify;
+
+}
+
+.espasletras{
+    letter-spacing: -3px;
+}
+
+.espaspalavras{
+    word-spacing: 10px;
+}
+
+.espaslinhas{
+    line-height: 2em;
+}
+
+.identacao{
+    text-indent: 30px;
+}
+
+#sombra{
+    font-size: 2em;
+    color: aquamarine;
+    text-shadow: 2px 2px 2px black;
+}
