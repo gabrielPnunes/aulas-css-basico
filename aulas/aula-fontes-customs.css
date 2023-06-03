@@ -1,0 +1,14 @@
+h1{
+    font-family:roboto-regular;
+
+}
+
+p{
+    font-family: 'Inconsolata', monospace;
+}
+
+@font-face {
+    font-family:roboto-regular;
+    src: url(/fonts/roboto-regular-webfont.woff2)
+
+}
