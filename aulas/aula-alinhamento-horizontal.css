@@ -1,0 +1,23 @@
+div {
+    background-color: blueviolet;
+    margin: auto;
+    text-align: center;
+}
+
+p{
+    width: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+img{
+    background-color: darkgrey;
+    margin:auto
+}
+
+#minhaDiv{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
