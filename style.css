@@ -1,5 +1,87 @@
-p{
-    background-color: aquamarine;
-    color: blue; 
-} 
- 
+.top-bar {
+    background-color: #ff6b28;
+    text-align: center;
+    padding: 15px;
+}
+
+.footer {
+    background-color: #ff6b28;
+    text-align: center;
+    padding: 15px;
+    color: white;
+}
+
+.hero {
+    background-image: url(/imagens/hero_bolo.jpg);
+    background-size: cover;
+    background-position-y: 25%;
+    padding: 200px;
+}
+
+.conteudo {
+    max-width: 1000px;
+    margin: auto;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 48px;
+    color: #ff6b28;
+    padding-top: 40px;
+}
+
+h2 {
+    color: #ff6b28;
+    font-size: 24px;
+}
+
+.ingredientes {
+    padding: 90px;
+    font-size: 20px;
+    line-height: 46px;
+    box-shadow: 0 0 20px 0 black;
+    border-radius: 15px;
+    cursor: url(/imagens/cursor_ingredientes.png), pointer;
+}
+
+.modo {
+    margin-top: 100px;
+    padding: 90px;
+    font-size: 20px;
+    line-height: 46px;
+    box-shadow: 0 0 20px 0 black;
+    border-radius: 15px;
+    cursor: url(/imagens/cursor_preparo.png), pointer;
+}
+
+.instrucoes {
+    margin-top: 100px;
+    padding: 90px;
+    font-size: 20px;
+    box-shadow: 0 0 20px 0 black;
+    border-radius: 15px;
+    cursor: url(/imagens/cursor_intrucoes.png), pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+.butao {
+    cursor: pointer;
+    color: white;
+    background-color: #ff6b28;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'lato', sans-serif;
+}
